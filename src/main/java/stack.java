@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-public class solution {
+public class stack {
     public static List<Integer> execute(List<String> program){
         ArrayList<Integer> stack = new ArrayList<>();
         for(String instruction: program){
