@@ -1,4 +1,5 @@
-package src.main.java;
+package solutions;
+
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
